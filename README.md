@@ -31,5 +31,11 @@ Place hat on head. Continue in this manner until coworkers burst into green flam
 
 ![2016-05-10 08 50 23](https://cloud.githubusercontent.com/assets/10144074/15235850/200064ca-188d-11e6-84d3-2f02002fbc99.jpg)
 
+##4. Send me a pic! 
+
+I'd like to know that this was useful or cool to someone. Send me a pic by [submitting an issue](https://github.com/carodew/18F-Knitted-Hat/issues/new)!
+
+### Pathetic attempt at legalese
+
 
 I dedicate any of the above content to public domain except for the hat pattern and other things I've linked to, which are the copyright of their respective copyright owners, obvs, and not mine to give.  
