@@ -28,4 +28,7 @@ Weave in all ends.
 
 Place hat on head. Continue in this manner until coworkers burst into green flames of envy.
 
-I dedicate any of the above content to public domain except for the hat pattern and other things I've linked to, which are the copyright of their respective copyright owners, obvs. 
+![2016-05-10 08 50 23](https://cloud.githubusercontent.com/assets/10144074/15235850/200064ca-188d-11e6-84d3-2f02002fbc99.jpg)
+
+
+I dedicate any of the above content to public domain except for the hat pattern and other things I've linked to, which are the copyright of their respective copyright owners, obvs, and not mine to give.  
