@@ -6,6 +6,7 @@ Instructions for creating an 18F knitted hat.
 ## Yarn
 
 1 skein (100 grams / 128 yards) Cascade 128 Superwash in Turquoise (812)
+
 1 skein (100 grams / 128 yards) Cascade 128 Superwash in Navy (854)
 
 You could also use black and white yarn and still be on brand, or use eitherblack or white yarn with the turquoise.
