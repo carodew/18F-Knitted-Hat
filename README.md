@@ -1,4 +1,4 @@
-# 18F-Knitted-Hat
+# 18F Knitted Hat
 Instructions for creating an 18F knitted hat.
 
 ![two knitted hats, one with bright blue and navy 18F and one with inverse colors of the first](https://cloud.githubusercontent.com/assets/10144074/15235574/8b4075c0-188a-11e6-9bf2-01f484e7513b.jpg)
